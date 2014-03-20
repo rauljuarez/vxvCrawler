@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+	<confvar name="serviceHost" value="localhost:8000" type="string"></confvar>
+	<confvar name="maxCores" value="2" type="int"></confvar>
+	<confvar name="logConfigFile" value="d_logging.conf" type="string"></confvar>
+	<confvar name="downloadsFolder" value="D:\DigitalTrends\Clientes\Clarin\VXD\release\vxv-crawler-1.0.0.0b\vxv-crawler-1.0.0.0b\downloader\downloads\" type="string"></confvar>
+	<confvar name="queuePolling" value="20" type="int"></confvar>
+	<confvar name="queuePath" value="D:\DigitalTrends\Clientes\Clarin\VXD\release\vxv-crawler-1.0.0.0b\vxv-crawler-1.0.0.0b\downloader\q_batchs\" type="string"></confvar>
+	<confvar name="processedPath" value="D:\DigitalTrends\Clientes\Clarin\VXD\release\vxv-crawler-1.0.0.0b\vxv-crawler-1.0.0.0b\downloader\p_batchs\" type="string"></confvar>
+	<confvar name="deleteDownloadedFiles" value="true" type="string"></confvar>
+	
+</configuration>
